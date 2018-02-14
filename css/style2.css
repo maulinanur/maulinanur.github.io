@@ -1,0 +1,17 @@
+h1	{color: #ff9999;
+	margin-left: 15px}
+h2	{color: #99ff99;
+	margin-left: 15px}
+
+#nav	{
+	border: 3px	dashed	#800040; 
+	margin: 10px 5px 15px 20px;
+	padding: 10px 10px 10px 10px
+}
+
+#nav a {text-decoration: none;
+		color: #33ccff}
+
+.recommended {font-family: Arial;
+			  margin-left: 15px
+}
